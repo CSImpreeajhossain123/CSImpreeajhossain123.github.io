@@ -1,0 +1,17 @@
+body {
+	background-color:orange;
+	color: blue;
+	font-family: 'Lobster', cursive;
+	font-family: 'Source Code Pro', monospace;
+}
+table {
+ font-family: 'Nunito', sans-serif
+  border-collapse: collapse;
+  width: 40%;
+}
+
+td, th {
+  border: 5px solid  green;
+  text-align: left;
+  padding: 8px;
+}
